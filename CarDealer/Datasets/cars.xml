@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Cars>
+  <Car>
+    <make>Opel</make>
+    <model>Omega</model>
+    <travelledDistance>176664996</travelledDistance>
+    <parts>
+      <partId id="38"/>
+      <partId id="102"/>
+      <partId id="23"/>
+      <partId id="116"/>
+      <partId id="46"/>
+      <partId id="68"/>
+      <partId id="88"/>
+      <partId id="104"/>
+      <partId id="71"/>
+      <partId id="32"/>
+      <partId id="114"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Astra</model>
+    <travelledDistance>516628215</travelledDistance>
+    <parts>
+      <partId id="39"/>
+      <partId id="62"/>
+      <partId id="72"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Astra</model>
+    <travelledDistance>156191509</travelledDistance>
+    <parts>
+      <partId id="48"/>
+      <partId id="44"/>
+      <partId id="112"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Corsa</model>
+    <travelledDistance>347259126</travelledDistance>
+    <parts>
+      <partId id="36"/>
+      <partId id="114"/>
+      <partId id="88"/>
+      <partId id="115"/>
+      <partId id="72"/>
+      <partId id="11"/>
+      <partId id="50"/>
+      <partId id="75"/>
+      <partId id="20"/>
+      <partId id="54"/>
+      <partId id="8"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Kadet</model>
+    <travelledDistance>31737446</travelledDistance>
+    <parts>
+      <partId id="65"/>
+      <partId id="95"/>
+      <partId id="90"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Vectra</model>
+    <travelledDistance>238042093</travelledDistance>
+    <parts>
+      <partId id="40"/>
+      <partId id="29"/>
+      <partId id="102"/>
+      <partId id="73"/>
+      <partId id="68"/>
+      <partId id="7"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Insignia</model>
+    <travelledDistance>225253817</travelledDistance>
+    <parts>
+      <partId id="108"/>
+      <partId id="8"/>
+      <partId id="102"/>
+      <partId id="57"/>
+      <partId id="23"/>
+      <partId id="79"/>
+      <partId id="103"/>
+      <partId id="70"/>
+      <partId id="67"/>
+      <partId id="71"/>
+      <partId id="46"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Astra</model>
+    <travelledDistance>31468479</travelledDistance>
+    <parts>
+      <partId id="102"/>
+      <partId id="54"/>
+      <partId id="15"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Corsa</model>
+    <travelledDistance>282499542</travelledDistance>
+    <parts>
+      <partId id="46"/>
+      <partId id="58"/>
+      <partId id="12"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Omega</model>
+    <travelledDistance>111313670</travelledDistance>
+    <parts>
+      <partId id="22"/>
+      <partId id="52"/>
+      <partId id="59"/>
+      <partId id="59"/>
+      <partId id="10"/>
+      <partId id="112"/>
+      <partId id="99"/>
+      <partId id="48"/>
+      <partId id="8"/>
+      <partId id="62"/>
+      <partId id="27"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Insignia</model>
+    <travelledDistance>168539389</travelledDistance>
+    <parts>
+      <partId id="42"/>
+      <partId id="96"/>
+      <partId id="45"/>
+      <partId id="84"/>
+      <partId id="66"/>
+      <partId id="6"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Vectra</model>
+    <travelledDistance>433351992</travelledDistance>
+    <parts>
+      <partId id="90"/>
+      <partId id="113"/>
+      <partId id="98"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Astra</model>
+    <travelledDistance>349837452</travelledDistance>
+    <parts>
+      <partId id="117"/>
+      <partId id="61"/>
+      <partId id="78"/>
+      <partId id="111"/>
+      <partId id="65"/>
+      <partId id="93"/>
+      <partId id="34"/>
+      <partId id="93"/>
+      <partId id="108"/>
+      <partId id="96"/>
+      <partId id="48"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Omega</model>
+    <travelledDistance>109910837</travelledDistance>
+    <parts>
+      <partId id="12"/>
+      <partId id="68"/>
+      <partId id="103"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Corsa</model>
+    <travelledDistance>241891505</travelledDistance>
+    <parts>
+      <partId id="49"/>
+      <partId id="107"/>
+      <partId id="94"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Insignia</model>
+    <travelledDistance>339785118</travelledDistance>
+    <parts>
+      <partId id="34"/>
+      <partId id="67"/>
+      <partId id="99"/>
+      <partId id="88"/>
+      <partId id="94"/>
+      <partId id="100"/>
+      <partId id="103"/>
+      <partId id="44"/>
+      <partId id="113"/>
+      <partId id="57"/>
+      <partId id="111"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Omega</model>
+    <travelledDistance>254808828</travelledDistance>
+    <parts>
+      <partId id="47"/>
+      <partId id="5"/>
+      <partId id="17"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Corsa</model>
+    <travelledDistance>267253567</travelledDistance>
+    <parts>
+      <partId id="10"/>
+      <partId id="19"/>
+      <partId id="46"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>Opel</make>
+    <model>Omega</model>
+    <travelledDistance>277250812</travelledDistance>
+    <parts>
+      <partId id="97"/>
+      <partId id="46"/>
+      <partId id="59"/>
+      <partId id="34"/>
+      <partId id="79"/>
+      <partId id="2"/>
+      <partId id="47"/>
+      <partId id="91"/>
+      <partId id="25"/>
+      <partId id="115"/>
+      <partId id="99"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>F20</model>
+    <travelledDistance>401291910</travelledDistance>
+    <parts>
+      <partId id="100"/>
+      <partId id="60"/>
+      <partId id="78"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>F25</model>
+    <travelledDistance>476132712</travelledDistance>
+    <parts>
+      <partId id="82"/>
+      <partId id="63"/>
+      <partId id="57"/>
+      <partId id="58"/>
+      <partId id="108"/>
+      <partId id="100"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>M5 F10</model>
+    <travelledDistance>140799461</travelledDistance>
+    <parts>
+      <partId id="96"/>
+      <partId id="109"/>
+      <partId id="46"/>
+      <partId id="61"/>
+      <partId id="35"/>
+      <partId id="37"/>
+      <partId id="4"/>
+      <partId id="8"/>
+      <partId id="15"/>
+      <partId id="72"/>
+      <partId id="48"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>F04</model>
+    <travelledDistance>418839575</travelledDistance>
+    <parts>
+      <partId id="6"/>
+      <partId id="79"/>
+      <partId id="107"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>E88</model>
+    <travelledDistance>27453411</travelledDistance>
+    <parts>
+      <partId id="91"/>
+      <partId id="88"/>
+      <partId id="16"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>M Roadster E85</model>
+    <travelledDistance>475685374</travelledDistance>
+    <parts>
+      <partId id="28"/>
+      <partId id="40"/>
+      <partId id="33"/>
+      <partId id="20"/>
+      <partId id="82"/>
+      <partId id="37"/>
+      <partId id="71"/>
+      <partId id="89"/>
+      <partId id="30"/>
+      <partId id="22"/>
+      <partId id="65"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>1M Coupe</model>
+    <travelledDistance>39826890</travelledDistance>
+    <parts>
+      <partId id="115"/>
+      <partId id="69"/>
+      <partId id="33"/>
+      <partId id="44"/>
+      <partId id="104"/>
+      <partId id="4"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>X6 M</model>
+    <travelledDistance>322292247</travelledDistance>
+    <parts>
+      <partId id="36"/>
+      <partId id="74"/>
+      <partId id="85"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>E67</model>
+    <travelledDistance>476830509</travelledDistance>
+    <parts>
+      <partId id="84"/>
+      <partId id="84"/>
+      <partId id="10"/>
+      <partId id="83"/>
+      <partId id="7"/>
+      <partId id="45"/>
+      <partId id="39"/>
+      <partId id="35"/>
+      <partId id="61"/>
+      <partId id="106"/>
+      <partId id="38"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>M6 E63</model>
+    <travelledDistance>57189891</travelledDistance>
+    <parts>
+      <partId id="72"/>
+      <partId id="79"/>
+      <partId id="15"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>M6 E63</model>
+    <travelledDistance>69863204</travelledDistance>
+    <parts>
+      <partId id="114"/>
+      <partId id="103"/>
+      <partId id="44"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>F20</model>
+    <travelledDistance>487897422</travelledDistance>
+    <parts>
+      <partId id="48"/>
+      <partId id="99"/>
+      <partId id="41"/>
+      <partId id="61"/>
+      <partId id="57"/>
+      <partId id="91"/>
+      <partId id="101"/>
+      <partId id="25"/>
+      <partId id="95"/>
+      <partId id="31"/>
+      <partId id="7"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>F04</model>
+    <travelledDistance>443756363</travelledDistance>
+    <parts>
+      <partId id="89"/>
+      <partId id="104"/>
+      <partId id="43"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>M5 F10</model>
+    <travelledDistance>435603343</travelledDistance>
+    <parts>
+      <partId id="40"/>
+      <partId id="103"/>
+      <partId id="89"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>X6 M</model>
+    <travelledDistance>227443571</travelledDistance>
+    <parts>
+      <partId id="18"/>
+      <partId id="29"/>
+      <partId id="116"/>
+      <partId id="36"/>
+      <partId id="98"/>
+      <partId id="5"/>
+      <partId id="83"/>
+      <partId id="4"/>
+      <partId id="114"/>
+      <partId id="9"/>
+      <partId id="69"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>F20</model>
+    <travelledDistance>284809463</travelledDistance>
+    <parts>
+      <partId id="78"/>
+      <partId id="5"/>
+      <partId id="23"/>
+    </parts>
+  </Car>
+  <Car>
+    <make>BMW</make>
+    <model>X6 M</model>
+    <travelledDistance>183346013</travelledDistance>
+    <parts>
+      <partId id="5"/>
+      <partId id="27"/>
+      <partId id="29"/>
+      <partId id="42"/>
+      <partId id="22"/>
+      <partId id="2"/>
+    </parts>
+  </Car>
+</Cars>
